@@ -26,7 +26,6 @@ Currently working at **Anuland**, where I lead frontend development and product 
 ### 📫 Connect with me:
 * **LinkedIn:** [linkedin.com/in/felipeeweiss](https://www.linkedin.com/in/felipeeweiss)
 * **Email:** felipeew19@gmail.com
-* **Location:** Limerick, Ireland
 
 ---
 *"Passionate about clean code, accessibility, and creating seamless user experiences."*
