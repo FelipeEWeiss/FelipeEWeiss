@@ -1,4 +1,3 @@
-
 # Hi there, I'm Felipe Weiss 👋
 
 ### Fullstack Software Engineer | Frontend Specialist
